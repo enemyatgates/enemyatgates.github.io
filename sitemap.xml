@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://enemyatgates.github.io/ModnarMusings/</loc>
     <lastmod>2025-11-05T09:49:21+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://enemyatgates.github.io/ModnarMusings/posts/</loc>
     <lastmod>2025-11-05T09:49:21+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/start/</loc>
+    <loc>https://enemyatgates.github.io/ModnarMusings/posts/start/</loc>
     <lastmod>2025-11-05T09:49:21+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://enemyatgates.github.io/ModnarMusings/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://enemyatgates.github.io/ModnarMusings/tags/</loc>
   </url>
 </urlset>
