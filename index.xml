@@ -1,19 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vikas Chandra Thorian on Modnar Musings | Thought and Transformation</title>
     <link>https://enemyatgates.github.io/ModnarMusings/</link>
     <description>Recent content in Vikas Chandra Thorian on Modnar Musings | Thought and Transformation</description>
-    <generator>Hugo -- 0.146.0</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Nov 2025 09:49:21 +0530</lastBuildDate>
-    <atom:link href="https://enemyatgates.github.io/ModnarMusings/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://enemyatgates.github.io/ModnarMusings/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>The Beginnings</title>
       <link>https://enemyatgates.github.io/ModnarMusings/posts/start/</link>
       <pubDate>Wed, 05 Nov 2025 09:49:21 +0530</pubDate>
+      
       <guid>https://enemyatgates.github.io/ModnarMusings/posts/start/</guid>
       <description>&lt;p&gt;The start of a new chapter.&lt;/p&gt;</description>
     </item>
+    
+    <item>
+      <title>অনুসন্ধানের ফলাফল</title>
+      <link>https://enemyatgates.github.io/ModnarMusings/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>https://enemyatgates.github.io/ModnarMusings/search/</guid>
+      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
+&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
+&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
+&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
+&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
+&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
+```&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>অনুসন্ধানের ফলাফল</title>
+      <link>https://enemyatgates.github.io/ModnarMusings/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>https://enemyatgates.github.io/ModnarMusings/search/</guid>
+      <description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;
+&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;
+&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;
+&lt;p&gt;This implementation uses Fusejs and mark.js&lt;/p&gt;
+&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;
+&lt;p&gt;Search  depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
+```&lt;/p&gt;</description>
+    </item>
+    
+    
   </channel>
 </rss>
