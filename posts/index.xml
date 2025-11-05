@@ -4,17 +4,30 @@
     <title>Posts on Modnar Musings | Thought and Transformation</title>
     <link>https://enemyatgates.github.io/ModnarMusings/posts/</link>
     <description>Recent content in Posts on Modnar Musings | Thought and Transformation</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Nov 2025 09:49:21 +0530</lastBuildDate><atom:link href="https://enemyatgates.github.io/ModnarMusings/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Wed, 05 Nov 2025 09:49:21 +0530</lastBuildDate>
+    <atom:link href="https://enemyatgates.github.io/ModnarMusings/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>https://enemyatgates.github.io/ModnarMusings/posts/01-getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://enemyatgates.github.io/ModnarMusings/posts/01-getting-started/</guid>
+      <description>&lt;p&gt;This page introduces the project setup and folder structure.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Hugo&lt;/li&gt;&#xA;&lt;li&gt;Clone this repository&lt;/li&gt;&#xA;&lt;li&gt;Run &lt;code&gt;hugo server&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Usage</title>
+      <link>https://enemyatgates.github.io/ModnarMusings/posts/02-usage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://enemyatgates.github.io/ModnarMusings/posts/02-usage/</guid>
+      <description>&lt;p&gt;Learn how to use the features of this project.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new posts/my-first-post.md&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo server -D&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>The Beginnings</title>
       <link>https://enemyatgates.github.io/ModnarMusings/posts/start/</link>
       <pubDate>Wed, 05 Nov 2025 09:49:21 +0530</pubDate>
-      
       <guid>https://enemyatgates.github.io/ModnarMusings/posts/start/</guid>
       <description>&lt;p&gt;The start of a new chapter.&lt;/p&gt;</description>
     </item>
-    
-    
   </channel>
 </rss>

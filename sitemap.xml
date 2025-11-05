@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://enemyatgates.github.io/ModnarMusings/search/</loc>
-    <lastmod>2010-06-08T08:06:25&#43;06:00</lastmod>
-    <priority>0.1</priority>
-  </url>
-  <url>
-    <loc>https://enemyatgates.github.io/ModnarMusings/posts/start/</loc>
-    <lastmod>2025-11-05T09:49:21&#43;05:30</lastmod>
+    <loc>https://enemyatgates.github.io/ModnarMusings/posts/01-getting-started/</loc>
   </url><url>
-    <loc>https://enemyatgates.github.io/ModnarMusings/search/</loc>
-    <lastmod>2010-06-08T08:06:25&#43;06:00</lastmod>
-    <priority>0.1</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://enemyatgates.github.io/ModnarMusings/search/" />
+    <loc>https://enemyatgates.github.io/ModnarMusings/posts/tutorial/</loc>
+  </url><url>
+    <loc>https://enemyatgates.github.io/ModnarMusings/posts/tutorial/part1/</loc>
+  </url><url>
+    <loc>https://enemyatgates.github.io/ModnarMusings/posts/02-usage/</loc>
+  </url><url>
+    <loc>https://enemyatgates.github.io/ModnarMusings/posts/</loc>
+    <lastmod>2025-11-05T09:49:21+05:30</lastmod>
+  </url><url>
+    <loc>https://enemyatgates.github.io/ModnarMusings/posts/start/</loc>
+    <lastmod>2025-11-05T09:49:21+05:30</lastmod>
+  </url><url>
+    <loc>https://enemyatgates.github.io/ModnarMusings/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://enemyatgates.github.io/ModnarMusings/categories/</loc>
+  </url><url>
+    <loc>https://enemyatgates.github.io/ModnarMusings/tags/</loc>
   </url>
 </urlset>
