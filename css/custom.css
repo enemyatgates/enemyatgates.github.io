@@ -1,0 +1,212 @@
+/* === General Typography === */
+body {
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #e0e0e0;
+  background-color: #121212;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #ffffff;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* === Homepage Intro Section === */
+.home-intro {
+  background-color: #1e1e1e;
+  border-left: 4px solid #00bfa5;
+  padding: 1.5rem 2rem;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 191, 165, 0.2);
+}
+
+.home-intro ul {
+  margin-left: 1.5rem;
+  list-style-type: disc;
+}
+
+.home-intro li {
+  margin-bottom: 0.5rem;
+}
+
+/* === Sidebar Styling === */
+.sidebar {
+  background-color: #1a1a1a;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: inset 0 0 5px rgba(255, 255, 255, 0.05);
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.sidebar li {
+  margin-bottom: 0.75rem;
+}
+
+.sidebar a {
+  color: #00bfa5;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.sidebar a:hover {
+  text-decoration: underline;
+}
+
+/* === Post Preview Cards === */
+.article-card {
+  background-color: #1c1c1c;
+  border: 1px solid #2a2a2a;
+  padding: 1.25rem;
+  margin-bottom: 1.5rem;
+  border-radius: 6px;
+  transition: box-shadow 0.3s ease;
+}
+
+.article-card:hover {
+  box-shadow: 0 0 10px rgba(0, 191, 165, 0.3);
+}
+
+.article-card .title {
+  font-size: 1.25rem;
+  color: #ffffff;
+}
+
+.article-card .summary {
+  color: #cccccc;
+  margin-top: 0.5rem;
+}
+
+/* === Breadcrumbs === */
+.breadcrumb {
+  font-size: 0.9rem;
+  color: #aaaaaa;
+  margin-bottom: 1rem;
+}
+
+.breadcrumb a {
+  color: #00bfa5;
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+/* === Footer === */
+footer {
+  font-size: 0.85rem;
+  color: #888888;
+  text-align: center;
+  padding: 1rem 0;
+  border-top: 1px solid #2a2a2a;
+  margin-top: 3rem;
+}
+
+footer a {
+  color: #00bfa5;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* === Code Blocks === */
+pre code {
+  background-color: #1e1e1e;
+  padding: 1rem;
+  border-radius: 6px;
+  display: block;
+  overflow-x: auto;
+  font-size: 0.95rem;
+  color: #e0e0e0;
+}
+
+/* Ensure parent allows positioning */
+.post-single {
+  position: relative;
+}
+
+/* Top-right container */
+.share-top-right {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 10;
+}
+
+/* Share button list */
+.share-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+/* Individual list items */
+.share-buttons li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Anchor styling */
+.share-buttons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* SVG icons */
+.share-buttons svg {
+  width: 1600px;
+  height: 1600px;
+  transition: transform 0.2s ease;
+}
+
+/* Hover effect */
+.share-buttons a:hover svg {
+  transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+  .share-top-right {
+    position: static;
+    margin-bottom: 1rem;
+    text-align: right;
+  }
+}
+
+/* === Responsive Enhancements === */
+@media (max-width: 768px) {
+  .home-intro {
+    padding: 1rem;
+  }
+
+  .article-card {
+    padding: 1rem;
+  }
+
+  .sidebar {
+    padding: 0.75rem;
+  }
+}
